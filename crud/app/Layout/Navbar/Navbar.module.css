@@ -1,0 +1,23 @@
+.Navbar {
+    background: #000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 100px;
+}
+
+.Navbar h6 {
+    font-weight: 800;
+    font-size: 30px;
+    color: var(--main);
+}
+
+.AddNewBook {
+    background: var(--main);
+    color: #fff;
+    padding: 8px 19px;
+    border-radius: 999px;
+    font-weight: 800;
+
+}

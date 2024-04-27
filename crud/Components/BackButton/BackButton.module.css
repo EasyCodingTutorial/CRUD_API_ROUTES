@@ -1,0 +1,5 @@
+.BackButton {
+    margin-block: 100px;
+    font-size: 30px;
+    color: var(--main);
+}

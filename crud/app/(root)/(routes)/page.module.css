@@ -1,0 +1,41 @@
+.HomeMain {
+    padding-inline: 100px;
+    margin-top: 60px;
+}
+
+.HomeBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: var(--boxShadow);
+    padding: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.HomeBox h6 {
+    font-weight: 800;
+    font-size: 18px;
+    text-overflow: ellipsis;
+    width: 15ch;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.HomeBox p {
+    font-size: 12px;
+    width: 600px;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    line-clamp: 3;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.HomeBox .HomeBox_Icon {
+    margin-inline: 5px;
+    font-size: 30px;
+    color: var(--main);
+}

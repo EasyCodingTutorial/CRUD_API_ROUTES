@@ -1,0 +1,19 @@
+.DeleteMessage {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.DeleteMessage h6 {
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.DeleteMessage .DeleteBtn {
+    background: var(--main);
+    color: #fff;
+    font-weight: 800;
+    width: max-content;
+    border-radius: 999px;
+    padding: 8px 20px;
+    cursor: pointer;
+}
