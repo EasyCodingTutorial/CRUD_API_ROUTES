@@ -33,6 +33,9 @@ Contributions are welcome! Feel free to open issues for any bugs, feature reques
 ## Screenshots
 ![fullstack](https://github.com/EasyCodingTutorial/MONGODB_URL/assets/84335112/4c792b92-c526-49e6-b7d9-26478ad935af)
 
+## Learn By Watching Video ▶️
+[![Watch Demo Video](https://img.youtube.com/vi/1FlJVPzW3Dg/maxresdefault.jpg)](https://www.youtube.com/watch?v=1FlJVPzW3Dg)
+ 
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
